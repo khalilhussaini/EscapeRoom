@@ -84,7 +84,6 @@ treasure-hunt-game-frontend/
 | `npm run start` | Start the production server         |
 | `npm run lint`  | Run ESLint to check for code issues |
 
+<img width="1916" height="886" alt="Escape room" src="https://github.com/user-attachments/assets/67acc33d-d541-4727-9acb-efb26967f3d9" />
 
 <img width="1886" height="863" alt="image" src="https://github.com/user-attachments/assets/b0454797-de2b-41f0-8b7d-ab4daa6729ba" />
-
-<img width="1916" height="886" alt="Escape room" src="https://github.com/user-attachments/assets/67acc33d-d541-4727-9acb-efb26967f3d9" />
